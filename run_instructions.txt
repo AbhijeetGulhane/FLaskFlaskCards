@@ -1,0 +1,10 @@
+$ git init
+$ git add .
+$ git commit -m "Initial commit"
+$ git remote add origin https://github.com/AbhijeetGulhane/FLaskFlaskCards.git
+$ git push -u origin main
+
+
+$ export FLASK_APP=flashcards.py
+$ export FLASK_ENV=development
+$ flask run

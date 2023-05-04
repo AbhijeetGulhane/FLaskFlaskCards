@@ -1,0 +1,18 @@
+[
+  {
+    "question": "Hello",
+    "answer": "Namaskar"
+  },
+  {
+    "question": "GoodBye",
+    "answer": "Alvida"
+  },
+  {
+    "question": "How are you? (to male)",
+    "answer": "Kasa aahe tu?"
+  },
+  {
+    "question": "How are you? (to female)",
+    "answer": "Kashi aahes tu?"
+  }
+]
